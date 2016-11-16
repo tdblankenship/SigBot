@@ -10,6 +10,6 @@
   7. BotBuilder from GitHub: https://github.com/Microsoft/BotBuilder
 
 ## Resources:
-Bot Framework Documentation: https://docs.botframework.com/en-us/
-Microsoft DreamSpark: https://imagine.microsoft.com/en-US/Home
+Bot Framework Documentation: https://docs.botframework.com/en-us/ <br />
+Microsoft DreamSpark: https://imagine.microsoft.com/en-US/Home <br />
 Microsoft Azure: https://azure.microsoft.com/en-us/
